@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>
+saad
+</title>
+</head>
+<body bgcolor="yellow" background="elephant.png">
+<marquee>My name is saad</marquee>
+
+<table>
+<tr>
+<td>
+<img src="elephant.png" width="300px" height="200px"/>
+</td>
+</tr>
+<table>
+
+</body>
+</html>
